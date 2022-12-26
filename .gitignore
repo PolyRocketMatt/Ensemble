@@ -1,0 +1,6 @@
+.idea/**
+target
+
+ensemble-core.iml
+ensemble-core/target/**
+ensemble-core/dependency-reduced-pom.xml
